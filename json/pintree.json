@@ -6,6 +6,195 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1731301025639,
+        "title": "前端",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1731301025639,
+            "title": "Web",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731301025639,
+                "title": "MDN Web Docs",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025639,
+                "title": "面向开发者的 Web 技术 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025639,
+                "title": "JavaScript | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025639,
+                "title": "重新介绍 JavaScript（JS 教程） - JavaScript | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Language_overview"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1731301025641,
+            "title": "Learn",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "学习 Web 开发 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "使用 HTML 构建 Web - 学习 Web 开发 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn/HTML"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "学习使用 CSS 为 HTML 添加样式 - 学习 Web 开发 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn/CSS"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "JavaScript——动态客户端脚本语言 - 学习 Web 开发 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "创建我的第一个表单 - 学习 Web 开发 | MDN",
+                "icon": "https://logo.clearbit.com/developer.mozilla.org",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Learn/Forms/Your_first_form"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1731301025641,
+            "title": "Vue",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "Examples | Vue.js",
+                "icon": "https://logo.clearbit.com/cn.vuejs.org",
+                "url": "https://cn.vuejs.org/examples/#markdown"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "教程 | Vue.js",
+                "icon": "https://logo.clearbit.com/cn.vuejs.org",
+                "url": "https://cn.vuejs.org/tutorial/#step-1"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "使用 Vue 的多种方式 | Vue.js",
+                "icon": "https://logo.clearbit.com/cn.vuejs.org",
+                "url": "https://cn.vuejs.org/guide/extras/ways-of-using-vue"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "主页 | vuepress-theme-hope",
+                "icon": "https://logo.clearbit.com/theme-hope.vuejs.press",
+                "url": "https://theme-hope.vuejs.press/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "首页 | VuePress",
+                "icon": "https://logo.clearbit.com/vuejs.press",
+                "url": "https://vuejs.press/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "首页 | VuePress",
+                "icon": "https://logo.clearbit.com/vuepress.vuejs.org",
+                "url": "https://vuepress.vuejs.org/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "VitePress | 由 Vite 和 Vue 驱动的静态站点生成器",
+                "icon": "https://logo.clearbit.com/vitepress.dev",
+                "url": "https://vitepress.dev/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "VitePress | 由 Vite 和 Vue 驱动的静态站点生成器",
+                "icon": "https://logo.clearbit.com/vitejs.cn",
+                "url": "https://vitejs.cn/vitepress/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731301025641,
+                "title": "VitePress | 基于 Vite 和 Vue 的静态网站生成器 中文",
+                "icon": "https://logo.clearbit.com/vitepress.vuejs.ac.cn",
+                "url": "https://vitepress.vuejs.ac.cn/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1731301025641,
+            "title": "Gatsby.js 中文教程 | GatsbyJS 中文网",
+            "icon": "https://logo.clearbit.com/www.gatsbyjs.cn",
+            "url": "https://www.gatsbyjs.cn/tutorial/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731301025641,
+            "title": "JavaScript 教程 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/js/js-tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1731301025641,
+            "title": "TypeScript 教程 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/typescript/ts-tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1731301025641,
+            "title": "AJAX 教程 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/ajax/ajax-tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1731301025641,
+            "title": "主题和插件 | Slidev",
+            "icon": "https://logo.clearbit.com/cn.sli.dev",
+            "url": "https://cn.sli.dev/guide/theme-addon"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1726409171607,
         "title": "软件分发",
         "children": [
